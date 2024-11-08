@@ -1,2 +1,1 @@
-Regular expression
-In this project, I learned how to use regular expressions.
+Practised examples on regular expressions
